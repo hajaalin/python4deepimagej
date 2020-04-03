@@ -18,6 +18,7 @@ def convert_to_pb(name_project):
     given by the user.
     """
     
+    # test edit in convert_to_pb
     # Define paths.
     path_to_model = '/content/drive/My Drive/unser_project/models/{b}.hdf5'.format(b=name_project)
     path_output = '/content/drive/My Drive/unser_project/'
